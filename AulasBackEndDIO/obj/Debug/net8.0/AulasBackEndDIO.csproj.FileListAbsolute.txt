@@ -1,0 +1,15 @@
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\AulasBackEndDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\AulasBackEndDIO.AssemblyInfoInputs.cache
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\AulasBackEndDIO.AssemblyInfo.cs
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\AulasBackEndDIO.csproj.CoreCompileInputs.cache
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\AulasBackEndDIO.sourcelink.json
+C:\BackendCSharp\AulasBackEndDIO\bin\Debug\net8.0\AulasBackEndDIO.exe
+C:\BackendCSharp\AulasBackEndDIO\bin\Debug\net8.0\AulasBackEndDIO.deps.json
+C:\BackendCSharp\AulasBackEndDIO\bin\Debug\net8.0\AulasBackEndDIO.runtimeconfig.json
+C:\BackendCSharp\AulasBackEndDIO\bin\Debug\net8.0\AulasBackEndDIO.dll
+C:\BackendCSharp\AulasBackEndDIO\bin\Debug\net8.0\AulasBackEndDIO.pdb
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\AulasBackEndDIO.dll
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\refint\AulasBackEndDIO.dll
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\AulasBackEndDIO.pdb
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\AulasBackEndDIO.genruntimeconfig.cache
+C:\BackendCSharp\AulasBackEndDIO\obj\Debug\net8.0\ref\AulasBackEndDIO.dll
