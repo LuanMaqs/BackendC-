@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AulasBackEndDIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9796b240901f545e67b1feef130c19c26408e1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f3fd03a6fdd586a65be4c922eba34db8e975aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AulasBackEndDIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AulasBackEndDIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
